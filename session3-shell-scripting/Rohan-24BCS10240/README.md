@@ -85,12 +85,12 @@ echo "Output written to $dir_name/result.log and $dir_name/process.log"
 
 ```text
 Enter your name: Rohan
-Enter your roll number: 24BCS10157
+Enter your roll number: 24BCS10240
 ======================================
        SYSTEM INFORMATION REPORT
 ======================================
 Name        : Rohan
-Roll Number : 24BCS10157
+Roll Number : 24BCS10240
 Date        : Fri Sep  4 17:44:08 UTC 2026
 Hostname    : DESKTOP-E0F3569
 Username    : rohan

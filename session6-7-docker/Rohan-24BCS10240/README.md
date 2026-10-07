@@ -177,8 +177,8 @@ With multi-stage: ~178MB — **~6× smaller** because build tools stay in the bu
 
 ## Documentation
 
-**Name:** rohan Srivastva   
-**Enrollment Number:** 24BCS10157  
+**Name:** Rohan Singh   
+**Enrollment Number:** 24BCS10240  
 
 - Application runs on port 8080 (host) → 3000 (container)  
 - `Hello World from Docker multi-stage build` confirmed via `curl`  

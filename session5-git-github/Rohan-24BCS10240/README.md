@@ -25,7 +25,7 @@
 git init demo-repo
 cd demo-repo
 git config user.email "rohan@example.com"
-git config user.name "Rohan Srivastva"
+git config user.name "Rohan Singh"
 
 # Create and commit a file
 echo "line 1" > notes.txt
@@ -77,7 +77,7 @@ git commit -a -m "add line 2 — used -a flag"
 git init cherry-demo
 cd cherry-demo
 git config user.email "Rohan@example.com"
-git config user.name "Rohan Srivastva"
+git config user.name "Rohan Singh"
 
 echo "feature A" > a.txt && git add a.txt && git commit -m "commit 1: add a.txt"
 echo "feature B" > b.txt && git add b.txt && git commit -m "commit 2: add b.txt"
